@@ -1,0 +1,48 @@
+.display-title {
+    font-family: 'Markazi Text', serif;
+    font-weight: 500;
+    font-size: 64px;
+}
+
+.sub-title {
+    font-family: 'Markazi Text', serif;
+    font-weight: 400;
+    font-size: 40px;
+}
+
+.section-title {
+    font-family: 'Karla', sans-serif;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.card-title {
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.lead-text {
+    font-family: 'Karla', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.section-categories {
+    font-family: 'Karla', sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+}
+
+.paragraph {
+    font-family: 'Karla', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.highlight {
+    font-family: 'Karla', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
