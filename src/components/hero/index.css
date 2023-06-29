@@ -1,0 +1,46 @@
+.section-hero {
+    width: 100%;
+    height: auto;
+    padding: 40px 0;
+    background-color: var(--dark-slate-grey);
+}
+
+.section-hero > .container > .section-hero-content > .display-title {
+    margin: 0;
+    color: var(--gold);
+    line-height: 0.6;
+}
+.section-hero > .container > .section-hero-content > .sub-title {
+    margin-bottom: 16px;
+    color: var(--white-smoke);
+    
+}
+
+.section-hero > .container > .section-hero-content > .lead-text {
+    margin-bottom: 16px;
+    color: var(--white-smoke);
+    max-width: 250px;
+    line-height: 1.2;
+}
+
+.section-hero > .container > .section-hero-content > .card-title {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 12px;
+
+    color: var(--black);
+    background-color: var(--gold);
+}
+
+
+.section-hero > .container > .section-hero-image {
+    width: 350px;
+    height: 375px;
+    border-radius: 12px;
+
+    position: absolute;
+    top: 0;
+    right: 80px;
+
+    object-fit: cover;
+}
