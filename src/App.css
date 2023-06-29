@@ -6,3 +6,18 @@
     --white-smoke: #edefee;
     --black: #333333;
 }
+
+.container {
+    width: auto;
+    max-width: 954px;
+    height: 100%;
+    padding: 0 80px;
+    margin: 0 auto;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+    position: relative;
+}
